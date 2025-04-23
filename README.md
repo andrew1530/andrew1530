@@ -1,4 +1,4 @@
-### 🚀 Senior Full Stack Software Engineer | 10+ Years
+### Senior Full Stack Software Engineer | 10+ Years
 
 I’m a highly skilled Senior Full Stack Software Engineer with over 10 years of experience specializing in MERN, Vue.js, TypeScript, and cloud platforms like AWS, GCP, and Azure. I excel at delivering scalable, high-performance applications across both frontend and backend, with deep expertise in system architecture, API design, and DevOps practices. No matter the challenge, I bring a solution-focused mindset and consistently drive success in fast-paced, high-pressure environments. I’ve led Agile teams and shipped complex projects from concept to production with precision and impact. Adaptable and forward-thinking, I’m committed to building innovative, business-driven digital solutions.
 
