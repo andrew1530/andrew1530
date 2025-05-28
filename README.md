@@ -1,6 +1,6 @@
-### **Senior Software Engineer** | **Ruby on Rails, Node.js, React, Vue** | **10+ Years**  
+### **Senior Software Engineer** | **Ruby on Rails, Node.js, React, Vue** | **10 Years**  
 
-With over 10 years of experience, I specialize in building and scaling full-stack web applications using **React**, **Vue.js**, **Node.js**, and **Ruby on Rails**. I’ve led successful projects across **finance**, **healthcare**, **e-commerce**, and **enterprise platforms**, consistently delivering clean architecture, efficient backend logic, and high-performance systems. I focus on **API integrations**, **scalable UIs**, **data migrations**, and **team leadership**—driving delivery in agile, fast-paced environments.
+With 10 years of experience, I specialize in building and scaling full-stack web applications using **React**, **Vue.js**, **Node.js**, and **Ruby on Rails**. I’ve led successful projects across **finance**, **healthcare**, **e-commerce**, and **enterprise platforms**, consistently delivering clean architecture, efficient backend logic, and high-performance systems. I focus on **API integrations**, **scalable UIs**, **data migrations**, and **team leadership**—driving delivery in agile, fast-paced environments.
 
 ---
 
